@@ -1,9 +1,5 @@
 # Prediction-using-Unsupervised-ML 
 
- *Predict the percentage of an student based on the no. of study hours.
-
-*This is simple Linear Regression task
-
-*Google Collab is use for writing code*
-
-*Data is taken from [Data](http://bit.ly/w-data)*
+*from the given Dataset predict the optimum number of cluster and reprsent it viusally.
+*used Collab for this task.
+*[Dataset] (https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view)
